@@ -1,0 +1,13 @@
+body{background-color: #edf3ff;}
+img{
+	width: 100%;
+}
+img:nth-child(2){
+
+}
+.center-align {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}

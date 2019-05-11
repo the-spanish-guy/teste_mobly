@@ -1,0 +1,13 @@
+body{
+	background-color: #edf3ff;
+}
+.center-align {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+form{
+	width: 60%;
+}
+button{width: 80%; margin-right: 50px}
